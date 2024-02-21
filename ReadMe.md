@@ -6,10 +6,21 @@
 
 ```mermaid
 flowchart
-    A[Robot] --> B[DriveSubsystem]
-    A --> C[TurretSubsystem]
-    A --> D[Targeting Subsystem]
-
+    A[Object Models] --> B[Robot]
+    B --> L[Properties]
+    L --> N[DriveSubsystem]
+    B --> M[Methods]
+    M --> O[End]
+    A --> C[Command]
+    C --> I[Properties]
+    I --> II[Commands]
+    C --> J[Methods]
+    J --> K[Setup]
+    A --> D[CommandGroup]
+    D --> E[Properties]
+    E --> F[Commands]
+    D --> G[Methods]
+    G --> H[Execute]
 
 ```
 
