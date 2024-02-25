@@ -10,7 +10,7 @@ flowchart
     B --> L[Properties]
     L --> N[DriveSubsystem]
     B --> M[Methods]
-    M --> O[End]
+    M --> O[Move]
     A --> C[Command]
     C --> I[Properties]
     I --> II[Commands]
