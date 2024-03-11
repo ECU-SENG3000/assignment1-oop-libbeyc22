@@ -1,0 +1,14 @@
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/DEMOOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/DEMOOOP.AssemblyInfoInputs.cache
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/DEMOOOP.AssemblyInfo.cs
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/DEMOOOP.csproj.CoreCompileInputs.cache
+/Users/connorlibbey/DEMOOOP/DEMOOOP/bin/Debug/net8.0/DEMOOOP
+/Users/connorlibbey/DEMOOOP/DEMOOOP/bin/Debug/net8.0/DEMOOOP.deps.json
+/Users/connorlibbey/DEMOOOP/DEMOOOP/bin/Debug/net8.0/DEMOOOP.runtimeconfig.json
+/Users/connorlibbey/DEMOOOP/DEMOOOP/bin/Debug/net8.0/DEMOOOP.dll
+/Users/connorlibbey/DEMOOOP/DEMOOOP/bin/Debug/net8.0/DEMOOOP.pdb
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/DEMOOOP.dll
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/refint/DEMOOOP.dll
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/DEMOOOP.pdb
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/DEMOOOP.genruntimeconfig.cache
+/Users/connorlibbey/DEMOOOP/DEMOOOP/obj/Debug/net8.0/ref/DEMOOOP.dll
